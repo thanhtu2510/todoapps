@@ -56,8 +56,12 @@ const About = () => {
                         <div class="cv-span3">Kỹ năng</div>
                         <div class="cv-span4">Ngôn ngữ lập trình</div>
                         <div class="cv-left-three-1">C++</div>
+                        <div class="cv-left-three-1">VueJS</div>
                         <div class="cv-left-three-1">HTML/CSS</div>
                         <div class="cv-left-three-1">JAVASCRIPT</div>
+                        <div class="cv-span4">Khác</div>
+                        <div class="cv-left-three-1">Figma</div>
+                        <div class="cv-left-three-1">Ux/Ui Design</div>
                         <div class="cv-span4">Ngoại ngữ</div>
                         <div class="cv-left-three-1">Tiếng anh</div>
 
@@ -68,7 +72,7 @@ const About = () => {
                     <div class="cv-right-one">
                         <div class="cv-span3">Giới thiệu bản thân</div>
                         <div class="cv-left-three-1"> Xin chào tất cả mọi người, mình tên là Thanh Tú - một sinh viên trường Đại Học Sư phạm Tp Hồ Chí Minh. Mình là một người thích khám phá, thích tìm tòi và ham học hỏi
-                            những điều thú vị trên internet, biết đôi chút về <span style={{ color: 'red', }}>Html/Css , Java Script, C/ C++/ C#</span></div>
+                            những điều thú vị trên internet, biết đôi chút về <span style={{ color: 'red', }}>Ux/Ui, Figma, Html/Css , Java Script, VueJS, C++ </span></div>
                     </div>
                     <div class="cv-right-one">
                         <div class="bgr-1px"></div>
