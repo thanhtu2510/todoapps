@@ -1,13 +1,13 @@
 import React from 'react';
-
+import logo from '../images/logo.png';
 const Dashboard = () => {
     return (
         <header>
             <center>
                 <div className="dasboard-page">
-                    <h1>Welcome to my web</h1>
-                    <img src='https://ih1.redbubble.net/image.3351345794.7068/fposter,small,wall_texture,product,750x1000.u2.jpg' width="300" />
-
+                    {/* <h1>Welcome</h1> */}
+                    {/* <img src='https://ih1.redbubble.net/image.3351345794.7068/fposter,small,wall_texture,product,750x1000.u2.jpg' width="300" /> */}
+                    <img src={logo} width="300" />
                 </div>
                 <div class="icon">
                     <a href='https://www.facebook.com/tu.dinh.2510'><i class="fa-brands fa-facebook"></i></a>

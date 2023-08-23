@@ -133,13 +133,13 @@
 }
 
 .fa-brands{
-  color: rgb(65, 93, 219);
+  color: rgb(24, 35, 80);
   font-size: 50px;
   margin-left: 20px;
 }
 
 .fa-solid{
-  color: rgb(65, 93, 219);
+  color: rgb(24, 35, 80);
   font-size: 50px;
   margin-left: 20px;
 }
@@ -153,9 +153,9 @@
 }
 
 .dasboard-page{
-  background-color: rgb(117, 119, 139);
-  border-style:double;
-  color:rgb(244, 77, 88);
+  /* background-color: rgb(117, 119, 139); */
+  /* color:rgb(239, 230, 230); */
+  color:#d6d4ea;
   padding: 5px;
 }
 
